@@ -6098,3 +6098,9 @@ header.main-header .header-sticky.active{
 		font-size: 28px;
 	}
 }
+
+@media (min-width: 320px) and (max-width: 440px){
+	.navbar-brand{
+		width: 60%;
+	}
+}
